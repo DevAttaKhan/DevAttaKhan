@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @DevAttaKhan
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning CSS and JavaScript
-- 💞️ I’m looking to collaborate on frontend web projects.
+- 💞️ I’m looking to collaborate on Full Stack Web projects.
 - 📫 How to reach me = ()=> {
       email (attakhan220@gmail.com);
 }
 
-<!---
-DevAttaKhan/DevAttaKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages and Tools:
+
+HTML5 CSS3 Sass JavaScript React GraphQL Node.js MySQL MongoDB Git
